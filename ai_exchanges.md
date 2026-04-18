@@ -246,4 +246,3 @@ SvgPicture.network(
 That's the only change needed — everything else in your menu.dart stays the same. The flutter_svg package handles network SVGs properly in Flutter Web where Image.network can't.
 
 
->This is my backend. Help me create a readme to help someone make it work. You have to be careful with the key and postgres code and so one. I have a requirements.txt with all the depedencies to install. Make it easy to understant and ppl will have to follow step by step without problem. For exemple for the secret key tell them what to run to have it
